@@ -1,1 +1,1 @@
-prit("Hello dear! This is 2nd test.")
+print("Hello dear! This is 2nd test.")
